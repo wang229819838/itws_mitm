@@ -1,0 +1,17 @@
+main copy.gobak
+main.gobak
+socks5代理.gobak
+tcp copy.gook
+tcp_proxy
+tcp_tls.gobak
+tcp.gobak
+users.db
+ca/itws.online_bundle.crt
+ca/itws.online_bundle.pem
+ca/itws.online.csr
+ca/itws.online.key
+ca/server.crt
+ca/server.csr
+ca/server.key
+pkg/shadowsocks2/.DS_Store
+pkg/.DS_Store
